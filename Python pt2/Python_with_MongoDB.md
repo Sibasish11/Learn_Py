@@ -70,5 +70,3 @@ Python needs a mongoDB driver to access mongoDB database. We will use _pymongo_ 
 ```sh
 pip install pymongo dnspython
 ```
-
-The "dnspython" module must be installed to use mongodb+srv:// URIs. The dnspython is a DNS toolkit for Python. It supports almost all record types.
