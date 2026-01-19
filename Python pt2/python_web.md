@@ -32,7 +32,7 @@ After completing all the step, your project file structure should look like this
 
 ### Setting up your project directory
 
-Follow the following steps to get started with Flask.
+get started with Flask.
 
 Step 1: install virtualenv using the following command.
 
